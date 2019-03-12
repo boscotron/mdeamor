@@ -32,7 +32,7 @@ Los demás campos son opcionales de modificar
 
 
 ```php
-define(	"RUTA_ACTUAL","http://local.ministeriosdeamor.org.mx/");  // URL actual del sistema
+define(	"RUTA_ACTUAL","http://local.mdeamor.com/");  // URL actual del sistema
 ...
 define(	"JMY_API","XXXXX"); 
 define(	"JMY_APIKEY","XXXXXX"); 
