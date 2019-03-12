@@ -1,0 +1,6 @@
+img.v-button:focus {
+    outline: none;
+}
+#pagos-container{
+	margin:30px auto;
+}
